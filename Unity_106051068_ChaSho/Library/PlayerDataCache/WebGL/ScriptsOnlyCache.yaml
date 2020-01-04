@@ -5,7 +5,6 @@ ScriptsOnlyBuild:
     - player
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
   sceneClasses:
     Assets/Scenes/mine.unity:
     - Class: 1
